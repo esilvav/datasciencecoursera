@@ -1,10 +1,7 @@
 # datasciencecoursera
 Este es mi proyecto
 Data Science Toolbox Coursera github repositorio
-+<<<<<<< HEAD
- Data Science Toolbox Coursera github repo		 Data Science Toolbox Coursera github repositorio
-+=======
-+Install R 
+Install R, 
 +Install Rstudio
 +Open Rstudio and take a screenshot
 +Submit a screenshot of Rstudio open on your screen using one of these formats: png, jpg, gif, pdf
