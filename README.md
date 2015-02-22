@@ -1,6 +1,8 @@
 # datasciencecoursera
 Este es mi proyecto
 Data Science Toolbox Coursera github repositorio
++<<<<<<< HEAD
+ Data Science Toolbox Coursera github repo		 Data Science Toolbox Coursera github repo
 +=======
 +Install R 
 +Install Rstudio
@@ -22,3 +24,4 @@ Data Science Toolbox Coursera github repositorio
 +Fork the data sharing repository here: https://github.com/jtleek/datasharing
 +Submit the link to the forked repository on your Github account. 
 +https://github.com/doktorbrown/datasharing
++>>>>>>> ea7411b6cd77e9d4d5a474f7a8ea4e30cb943a9d
