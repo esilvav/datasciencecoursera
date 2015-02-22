@@ -2,7 +2,7 @@
 Este es mi proyecto
 Data Science Toolbox Coursera github repositorio
 +<<<<<<< HEAD
- Data Science Toolbox Coursera github repo		 Data Science Toolbox Coursera github repo
+ Data Science Toolbox Coursera github repo		 Data Science Toolbox Coursera github repositorio
 +=======
 +Install R 
 +Install Rstudio
