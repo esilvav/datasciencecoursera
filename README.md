@@ -4,8 +4,8 @@ Data Science Toolbox Coursera github repositorio "Edgar Omar Silva Velarde"
 
 ============
 Install R, 
-Install Rstudio
-Open Rstudio and take a screenshot
+Install Rstudio,
+Open Rstudio and take a screenshot,
 Submit a screenshot of Rstudio open on your screen using one of these formats: png, jpg, gif, pdf
 Be careful not to have personally identifiable or important information visible in the screen shot!
 
